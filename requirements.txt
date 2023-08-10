@@ -1,0 +1,7 @@
+ipyleaflet
+streamlit
+matplotlib
+pandas
+numpy
+scikit-learn
+plotly

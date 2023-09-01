@@ -137,7 +137,8 @@ fig.update_layout(
         # xanchor="right", x=0,
         ticks="outside", ticksuffix=" people",
         dtick=1
-    )
+    ),
+    coloraxis_showscale=True
 )
 # fig.update_layout(**{'orientation':'h'})
 # fig.update_coloraxes(colorbar={'orientation':'h', 'thickness':20, 'y': -1.0})

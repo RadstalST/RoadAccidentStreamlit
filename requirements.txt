@@ -5,3 +5,8 @@ pandas
 numpy
 scikit-learn
 plotly
+pysal 
+contextily 
+dask 
+sweetviz
+streamlit-folium

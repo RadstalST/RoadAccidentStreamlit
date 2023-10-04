@@ -25,5 +25,8 @@ ClusterGeolocation(Local statistic) --> Global(Global statistic)
 Grid(Hexagon Grid)--> Global
 ```
 
-> URBAN area analysis 150m rad hexagon grid
-> 
+
+Notes:
+1. URBAN area analysis 150m rad hexagon grid
+2. building envirinment as a quantifiable data
+3. 

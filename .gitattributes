@@ -1,3 +1,7 @@
 *.json
 *.geojson
 *.csv
+data/Road_Crashes_for_five_Years_Victoria.csv filter=lfs diff=lfs merge=lfs -text
+data/grid5KM.json filter=lfs diff=lfs merge=lfs -text
+data/grid1KM.json filter=lfs diff=lfs merge=lfs -text
+out/aggregation.geojson filter=lfs diff=lfs merge=lfs -text

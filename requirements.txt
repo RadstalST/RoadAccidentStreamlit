@@ -10,3 +10,7 @@ contextily
 dask 
 sweetviz
 streamlit-folium
+openpyxl
+pysal
+streamlit-pandas-profiling
+contextily

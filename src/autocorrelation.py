@@ -20,7 +20,7 @@ def readCrashsiteGDF()->gpd.GeoDataFrame:
 
 # @dask.delayed
 @st.cache_data
-def readHexGridGDF(path="./data/grid1KM.json"):
+def readHexGridGDF(path="./data/grid5KM.json"):
     grid = gpd.read_file(
         path,crs=None
     )
